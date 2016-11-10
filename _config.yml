@@ -2,17 +2,17 @@
 
 # Website settings
 title: "Luis P.'s Home Page"
-description: "Luis P. Prieto's professional and personal pages."
+description: "Luis P. Prieto's home page including CV, projects, publications and more."
 keywords: "LuisPPrieto,lprisan,research,personal"
 baseurl: "/"
-url: "http://luispprieto.com"
+url: "http://lprisan.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Luis P.'
-  first_name: 'Luis P.'
-  last_name: 'Prieto'
+  name: 'Luis P. Prieto'
+  first_name: 'Prieto'
+  last_name: 'Luis P.'
   email: 'luis.pablo.prieto@gmail.com'
   facebook_username: 'lprisan'
   github_username: 'lprisan'
