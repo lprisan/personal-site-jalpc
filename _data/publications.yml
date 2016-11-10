@@ -1,0 +1,4 @@
+- name: 'Google Scholar'
+  i18n: 'gscholar'
+  url: 'https://scholar.google.com/citations?user=ySpnj0MAAAAJ
+  desc: 'My list of publications in Google Scholar. Probably the most updated one.'

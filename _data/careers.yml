@@ -10,7 +10,7 @@
   job:
     detail: Senior Research Fellow
     i18n: tlu_job
-  icon: fa-graduation-cap
+  icon: fa-flask
 
 - name:
     detail: École Polytechnique Fédérale de Lausanne (Switzerland)

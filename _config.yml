@@ -34,10 +34,10 @@ sections:
     css: 'timeline'
 
   - id: 'publications'
-    i18n: 'nav.skills'
-    name: 'Skills'
-    tpl: 'skills.html'
-    css: 'team'
+    i18n: 'nav.publications'
+    name: 'Publications'
+    tpl: 'publications.html'
+    css: ''
 
   - id: 'projects'
     i18n: 'nav.projects'
