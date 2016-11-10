@@ -36,7 +36,7 @@ sections:
   - id: 'publications'
     i18n: 'nav.publications'
     name: 'Publications'
-    tpl: 'links.html'
+    tpl: 'publications.html'
     css: ''
 
   - id: 'projects'
