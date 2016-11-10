@@ -1,55 +1,69 @@
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: Tallinn University (Estonia)
+    i18n: tlu
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: I am currently a researcher at the School of Educational Sciences, working on new learning environments and technologies (planning and orchestration of learning) within the CEITER EU project.
+    i18n: tlu_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Nov. 2016
+    i18n: tlu_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    detail: Senior Research Fellow
+    i18n: tlu_job
+  icon: fa-graduation-cap
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: École Polytechnique Fédérale de Lausanne (Switzerland)
+    i18n: epfl
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: I was Marie Curie Fellow at EPFL's CHILI Lab. There, I worked on paper-based user interfaces in education, and studying teacher practice with technology using mobile eye-trackers and other kinds of sensors.
+    i18n: epfl_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: Jan. 2014
+    i18n: epfl_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: Scientist
+    i18n: epfl_job
+  icon: fa-eye
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: Universidad de Valladolid (Spain)
+    i18n: uva
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: I did my Ph.D. on Information and Communication Technologies at the GSIC-EMIC lab. My work revolved around supporting teachers to design, implement and orchestrate learning activities with technology and training actions, especially in distributed learning environments.
+    i18n: uva_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: Jan. 2009
+    i18n: uva_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
+    detail: Pre-doctoral and Post-doctoral researcher
+    i18n: uva_job
   icon: fa-cloud
 
 - name:
-    detail: Graduation
-    i18n: college
+    detail: Telefónica Investigación y Desarrollo (Spain)
+    i18n: tid
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
+    detail: I worked in the telecom R&D industry for more than seven years, developing messaging services, and involved in EU projects related to mobile and cloud computing.
+    i18n: tid_des
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: Apr. 2000-2008
+    i18n: tid_date
   job:
-    detail: Student
-    i18n: college_job
-  icon: fa-book
+    detail: R&D Engineer
+    i18n: tid_job
+  icon: fa-mobile
+
+- name:
+    detail: Universidad de Valladolid
+    i18n: bsc
+  desc:
+    detail: I completed my B.Sc. in Telecommunications Engineering, with a project on vocal browsers.
+    i18n: bsc_des
+  date:
+    detail: Apr. 2001
+    i18n: bsc_date
+  job:
+    detail: Telecommunications Engineer
+    i18n: bsc_job
+  icon: fa-graduation-cap
